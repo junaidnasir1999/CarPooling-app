@@ -7,7 +7,7 @@ in "C:\Users\ShoaibKhan\Desktop\react-native\primo_caro\node_modules\react-nativ
 with the following piece of code
 
 try {
-    retriever.release();
+    retriever.release(); 
 } catch(IOException e) {
     e.printStackTrace();
 }
